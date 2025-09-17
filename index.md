@@ -1,4 +1,8 @@
 # Recipes
+## Notes
+* Pack: 400-500g
+* Aromatics: Mix with mince or shredded meat
+
 ## Aromatics
 * [Mushroom](Mushroom)
 * [Cabbage](Cabbage)

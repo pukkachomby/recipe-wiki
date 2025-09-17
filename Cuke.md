@@ -1,6 +1,6 @@
 # Cuke
 ## Materials
-* 4 packs pork
+* 4 packs pork (400g x 4 = 1600g)
 * Optional onion/shallot
 * 3-4 large cuke
 * 10 cloves garlic

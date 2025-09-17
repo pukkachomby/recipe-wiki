@@ -1,6 +1,6 @@
 # Mushroom
 ## Materials
-* 1000g chicken
+* 2 pack 500g chicken
 * 1 pack mushrooms
 * 1 pack shallot
 * 10 cloves garlic

@@ -1,6 +1,8 @@
 # Recipes
 ## Notes
-* Pack: 400-500g
+* Packs
+    * Of meat: 400-500g
+    * Of veg: Usually refers to peeled or pre-chopped veg (eg shallot, garlic)
 * Aromatics: Mix with mince or shredded meat
 * Recipe volume:
     * That which fills up a 2.5L container

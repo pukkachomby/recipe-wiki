@@ -1,6 +1,6 @@
 # Cabbage
 ## Materials
-* 2 packs (400-500g) meat
+* 2 packs meat
 * Half cabbage
 * Pork fat and broth from prior cook
 * Optional

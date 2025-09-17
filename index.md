@@ -2,6 +2,9 @@
 ## Notes
 * Pack: 400-500g
 * Aromatics: Mix with mince or shredded meat
+* Recipe volume:
+    * That which fills up a 2.5L container
+    * That which is 1-2 days worth of meals
 
 ## Aromatics
 * [Mushroom](Mushroom)

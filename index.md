@@ -1,14 +1,19 @@
 # Recipes
-* Mayo
-* Shredded meat
-* [Baby chao](Baby chao)
+## Aromatics
 * [Mushroom](Mushroom)
 * [Cabbage](Cabbage)
 * [Cuke](Cuke)
-* [Pork and pepper](Pork and pepper)
+* [Pepper](Peppers)
+
+## At-home variants
+* Mayo
+* Shredded meat
+
+## Misc
+* [Baby chao](Baby chao)
 * [Salsa](Salsa)
 
-
+## SORTME
 Thai and Vietnamese dishes both use chicken mince and tamarind well. Two options:
 
 ### Thai option: Chicken Pad Thai with Tamarind

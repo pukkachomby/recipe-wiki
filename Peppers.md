@@ -1,4 +1,4 @@
-# Pepper
+# Peppers
 ## Materials
 * 800g pork
 * 4 onion

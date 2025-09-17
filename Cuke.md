@@ -1,4 +1,4 @@
-# Pork and cuke
+# Cuke
 ## Materials
 * 800g pork
 * Optional onion/shallot

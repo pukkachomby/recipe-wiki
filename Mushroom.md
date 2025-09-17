@@ -1,4 +1,4 @@
-# Chicken and mushroom
+# Mushroom
 ## Materials
 * 1000g chicken
 * 1 pack mushrooms

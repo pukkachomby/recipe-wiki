@@ -1,12 +1,12 @@
 # Recipes
-Mayo
-Shredded meat
-[Baby chao](Baby chao)
-[Chicken and mushroom](Chicken and mushroom)
-[Pork and cabbage](Pork and cabbage)
-[Pork and cuke](Pork and cuke)
-[Pork and pepper](Pork and pepper)
-[Salsa](Salsa)
+* Mayo
+* Shredded meat
+* [Baby chao](Baby chao)
+* [Mushroom](Mushroom)
+* [Cabbage](Cabbage)
+* [Cuke](Cuke)
+* [Pork and pepper](Pork and pepper)
+* [Salsa](Salsa)
 
 
 Thai and Vietnamese dishes both use chicken mince and tamarind well. Two options:

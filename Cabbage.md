@@ -1,4 +1,4 @@
-# Pork and cabbage
+# Cabbage
 ## Materials
 * 400g pork
 * Half cabbage

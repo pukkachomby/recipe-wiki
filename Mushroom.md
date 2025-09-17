@@ -1,9 +1,9 @@
 # Mushroom
 ## Materials
-* 2 packs meat
-* 1 pack mushrooms
-* 1 pack shallot
-* 10 cloves garlic
+* 4 packs meat
+* 2 packs mushrooms
+* 2 packs shallot
+* 20 cloves garlic
 
 ## Method
 * Process veg

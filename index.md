@@ -4,7 +4,7 @@
 * Aromatics: Mix with mince or shredded meat
 * Recipe volume:
     * That which fills up a 2.5L container
-    * That which is 1-2 days worth of meals
+    * That which is 1-2 days worth of meals (depending on protein content)
 
 ## Aromatics
 * [Mushroom](Mushroom)

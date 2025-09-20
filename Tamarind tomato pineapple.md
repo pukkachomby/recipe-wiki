@@ -1,4 +1,4 @@
-# Tamarind tomato pinapple
+# Tamarind tomato pineapple
 ## Materials
 * 1 pack meat
 * 2 tomato

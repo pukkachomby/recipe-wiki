@@ -19,7 +19,7 @@
 * [Kimchi](Kimchi)
 * [Southwest sans beans](Southwest sans beans)
 * [Salsa](Salsa)
-* [Tamarind tomato pinapple](Tamarind tomato pinapple)
+* [Tamarind tomato pinapple](Tamarind tomato pineapple)
 * [Soy sauce](Soy sauce)
 
 ## At-home variants

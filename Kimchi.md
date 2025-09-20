@@ -1,23 +1,13 @@
 # Kimchi
 ## Materials
-    250 g chicken mince
+### Meat
+* 1 pack meat
+* 1 pack kimchi
+* 10 cloves garlic
+* 2t ginger
+* 1t seasame oil
 
-    1/2 cup kimchi, finely chopped
-
-    1/4 cup breadcrumbs or panko
-
-    1 egg
-
-    2 garlic cloves, minced
-
-    1 tsp ginger, minced
-
-    1 tsp sesame oil
-
-    Salt and pepper to taste
-
-    1–2 tbsp vegetable oil for frying
-
+### Sauce
 Soy dipping sauce:
 
     3 tbsp soy sauce

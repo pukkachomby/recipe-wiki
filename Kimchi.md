@@ -3,7 +3,7 @@
 ### Meat
 * 2 packs meat
 * 1 pack kimchi
-* 10   garlic
+* 10 garlic
 * 1T ginger
 * 1T sesame oil
 * Sesame seeds

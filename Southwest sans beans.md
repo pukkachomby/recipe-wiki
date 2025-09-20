@@ -5,7 +5,7 @@
 * 6 tomato
 * 3 pepper
 * 3 onion
-* 10   garlic
+* 10 garlic
 * Spices
 * Lime
 * Cilantro

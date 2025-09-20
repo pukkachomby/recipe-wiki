@@ -1,7 +1,6 @@
 # Tamarind tomato pinapple
 ## Materials
 * 1 pack meat
-* 1 onion
 * 2 tomato
 * 1/3 medium pinapple
 * 1T tamarind paste

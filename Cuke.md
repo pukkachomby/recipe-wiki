@@ -3,7 +3,7 @@
 * 4 packs meat
 * Optional onion/shallot
 * 3-4 large cuke
-* 10   garlic
+* 10 garlic
 
 ## Method
 * Process veg

@@ -1,4 +1,4 @@
-# Kimchi CHICKEN
+# Kimchi
 ## Materials
 ### Meat
 * 2 packs meat

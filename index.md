@@ -15,6 +15,7 @@
 * [Cuke](Cuke)
 * [Pepper](Peppers)
 * [Kimchi soup](Kimchi soup)
+* [Kimchi](Kimchi)
 
 ## At-home variants
 * Mayo

@@ -1,4 +1,4 @@
-# Soy sauce
+# Soy sauce HALVE RECIPE
 ## Materials
 * 2 packs meat
 * 1 pack shallot

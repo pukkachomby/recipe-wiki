@@ -2,13 +2,13 @@
 ## Materials
 * 1 pack meat
 * 2 tomato
-* 100 g pineapple, chunks
-* 1 tbsp tamarind paste
-* 1–2 tbsp fish sauce
-* 1 tsp sugar
-* 500 ml chicken stock
-* 1 small onion, sliced
-* Fresh herbs (sawtooth coriander, Thai basil, or cilantro)
+* 1/3 medium pinapple
+* 1T tamarind paste
+* 1T fish sauce
+* 1t sugar
+* 2 cups stock
+* 1 onion
+* Herbs (sawtooth coriander, Thai basil, or cilantro)
 * Optional: bean sprouts
 
 ## Method

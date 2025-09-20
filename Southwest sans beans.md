@@ -1,12 +1,10 @@
 # Southwest sans beans
 ## Materials
-*
-Ingredients:
+* 4 packs meat
+* 8 corn
+* 8 tomato
+* 4 pepper
 
-* 400 g pork mince
-* 2 ears corn (kernels) or 1 cup frozen
-* 2 large tomatoes, diced (or 1 can)
-* 1 red bell pepper, diced
 * 1 small zucchini, diced (optional for body)
 * 1 onion, chopped
 * 2 cloves garlic, minced

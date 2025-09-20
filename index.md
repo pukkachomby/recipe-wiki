@@ -14,6 +14,7 @@
 * [Cabbage](Cabbage)
 * [Cuke](Cuke)
 * [Pepper](Peppers)
+
 * [Kimchi soup](Kimchi soup)
 * [Kimchi](Kimchi)
 * [Southwest sans beans](Southwest sans beans)
@@ -30,9 +31,6 @@
 ## SORTME
 
 # NOTES
-
-
-
 # soy sauce
 * 500 g pork mince
 * 2 tbsp soy sauce
@@ -45,7 +43,7 @@
 * 1 tbsp oil for frying
 * spring onions, chopped (for garnish)
 * steamed rice (to serve)
-* 5 spice?
+* Optional: Five-spice
 
 Steps:
 * Heat oil in a pan

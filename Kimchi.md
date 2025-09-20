@@ -7,7 +7,7 @@
 * 1T ginger
 * 1T sesame oil
 * Sesame seeds
-* 5 spice?
+* Optional: Five-spice
 
 ### Sauce
 * 3T soy

@@ -42,7 +42,7 @@
 * Taste and Adjust: Transfer the salsa to a bowl. Taste it and adjust the seasoning. It might need more salt, another squeeze of lime, or more cilantro. The flavors will meld and improve if you let it sit for at least 30 minutes before serving.
 
 
-Thai and Vietnamese dishes both use chicken mince and tamarind well. Two options:
+# Thai and Vietnamese dishes both use chicken mince and tamarind well. Two options:
 
 ### Thai option: Chicken Pad Thai with Tamarind
 
@@ -94,7 +94,7 @@ Want me to also give you a **stir-fry style Vietnamese option** (non-soup) with 
 
 
 
-Southwest-style with pork mince, corn, and tomato works. Without beans, you can bulk with veg and spices. Core profile: smoky, sweet, tangy.
+# Southwest-style with pork mince, corn, and tomato works. Without beans, you can bulk with veg and spices. Core profile: smoky, sweet, tangy.
 
 Ingredients:
 
@@ -129,3 +129,31 @@ Options:
 * Serve with tortillas, rice, or baked potato
 
 Want me to shape this as a **one-pan skillet meal** (heavier, cheesy, layered), or keep it as a light stir-fry style?
+
+
+# soy sauce
+
+* 500 g pork mince
+* 2 tbsp soy sauce
+* 1 tbsp oyster sauce (optional, adds depth)
+* 1 tsp sesame oil
+* 2 garlic cloves, minced
+* 1 small onion, finely chopped
+* 1 chili (optional), sliced
+* 1 tsp sugar
+* 1 tbsp oil for frying
+* spring onions, chopped (for garnish)
+* steamed rice (to serve)
+
+Steps:
+
+* Heat oil in a pan
+* Add garlic and onion, fry until fragrant
+* Add pork mince, cook until browned
+* Stir in soy sauce, oyster sauce, sesame oil, sugar, and chili
+* Cook 3–4 minutes until pork is coated and sauce slightly reduced
+* Taste and adjust seasoning with more soy sauce if needed
+* Garnish with spring onions
+* Serve with steamed rice
+
+Want me to make it a quick stir-fry with vegetables included?

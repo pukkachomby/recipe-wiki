@@ -8,6 +8,7 @@
 * 1T sesame oil
 * Sesame seeds
 * Optional: Five-spice
+* Vinegar
 
 ### Sauce
 * 3T soy
@@ -21,3 +22,4 @@
 * Process veg
 * Mix
 * Pressure cook on meat setting
+* Vinegar

@@ -9,7 +9,9 @@
 * Chili
 * 2t soy/fish sauce
 * Herbs
+* Vinegar
 
 ## Method
 * Process veg
 * Pressure cook on meat setting
+* Vinegar

@@ -1,11 +1,11 @@
 # Kimchi
 ## Materials
 ### Meat
-* 2 pack meat
+* 2 packs meat
 * 1 pack kimchi
 * 10 cloves garlic
-* 2t ginger
-* 2t sesame oil
+* 1T ginger
+* 1T sesame oil
 * Sesame seeds
 
 ### Sauce

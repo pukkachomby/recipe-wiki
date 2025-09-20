@@ -18,6 +18,7 @@
 * [Kimchi](Kimchi)
 * [Southwest sans beans](Southwest sans beans)
 * [Salsa](Salsa)
+* [Tamarind tomato pinapple](Tamarind tomato pinapple)
 
 ## At-home variants
 * Mayo
@@ -31,28 +32,6 @@
 # NOTES
 in the new asian recipes, you can experiment with adding 5 spice
 
-
-# Vietnamese option: Canh Chua Ga (Sweet-Sour Chicken Soup)
-
-* 200 g chicken mince
-* 1 medium tomato, wedges
-* 100 g pineapple, chunks
-* 1 tbsp tamarind paste
-* 1–2 tbsp fish sauce
-* 1 tsp sugar
-* 500 ml chicken stock
-* 1 small onion, sliced
-* Fresh herbs (sawtooth coriander, Thai basil, or cilantro)
-* Optional: bean sprouts
-
-Steps:
-
-* Heat stock, add onion, tamarind, fish sauce, sugar
-* Simmer 5 min, strain if you want clear broth
-* Add chicken mince, simmer until cooked
-* Add tomato and pineapple, simmer 3–4 min
-* Taste: adjust balance sweet-sour-salty
-* Finish with herbs before serving
 
 
 

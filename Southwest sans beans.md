@@ -7,9 +7,12 @@
 * 3 pepper
 * 10 garlic
 * Spices
-* Lime
-* Cilantro
+* Garnish
+    * Lime
+    * Cilantro
+    * Chili
 
 ## Method
 * Process veg
 * Pressure cook on meat setting
+* Garnish

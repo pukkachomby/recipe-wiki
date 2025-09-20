@@ -47,33 +47,7 @@ in the new asian recipes, you can experiment with adding 5 spice
 * Taste and Adjust: Transfer the salsa to a bowl. Taste it and adjust the seasoning. It might need more salt, another squeeze of lime, or more cilantro. The flavors will meld and improve if you let it sit for at least 30 minutes before serving.
 
 
-# Thai and Vietnamese dishes both use chicken mince and tamarind well. Two options:
-
-### Thai option: Chicken Pad Thai with Tamarind
-
-* 200 g chicken mince
-* 150 g rice noodles (soaked)
-* 2 tbsp tamarind paste
-* 1 tbsp fish sauce
-* 1 tbsp palm sugar (or brown sugar)
-* 1 egg
-* 2 cloves garlic, minced
-* 1 small shallot, sliced
-* 1 cup bean sprouts
-* 2 spring onions, chopped
-* Crushed peanuts, lime wedges, chili flakes
-
-Steps:
-
-* Mix tamarind paste, fish sauce, and sugar → sauce
-* Fry garlic and shallot in oil
-* Add chicken mince, stir until cooked
-* Push aside, crack in egg, scramble
-* Add noodles + sauce, toss until coated
-* Add bean sprouts and spring onion
-* Serve topped with peanuts, lime, chili
-
-### Vietnamese option: Canh Chua Ga (Sweet-Sour Chicken Soup)
+# Vietnamese option: Canh Chua Ga (Sweet-Sour Chicken Soup)
 
 * 200 g chicken mince
 * 1 medium tomato, wedges
@@ -137,7 +111,6 @@ Want me to shape this as a **one-pan skillet meal** (heavier, cheesy, layered), 
 
 
 # soy sauce
-
 * 500 g pork mince
 * 2 tbsp soy sauce
 * 1 tbsp oyster sauce (optional, adds depth)

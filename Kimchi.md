@@ -5,7 +5,7 @@
 * 1 pack kimchi
 * 10 cloves garlic
 * 2t ginger
-* 1t sesame oil
+* 2t sesame oil
 * Sesame seeds
 
 ### Sauce
@@ -18,3 +18,5 @@
 
 ## Method
 * Process veg
+* Mix
+* Pressure cook on meat setting

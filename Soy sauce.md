@@ -5,7 +5,7 @@
 * 4T soy sauce
 * 10 garlic
 * 2 tsp sesame oil
-* Sesame seeds
+* Garnish: Sesame seeds
 * Chili
 * Optional
     * Five-spice
@@ -15,3 +15,4 @@
 ## Method
 * Process veg
 * Pressure cook on meat setting
+* Garnish

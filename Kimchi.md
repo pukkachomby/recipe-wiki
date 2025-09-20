@@ -6,9 +6,10 @@
 * 10 garlic
 * 1T ginger
 * 1T sesame oil
-* Sesame seeds
 * Optional: Five-spice
-* Vinegar
+* Garnish
+    * Sesame seeds
+    * Vinegar
 
 ### Sauce
 * 3T soy
@@ -22,4 +23,4 @@
 * Process veg
 * Mix
 * Pressure cook on meat setting
-* Vinegar
+* Garnish

@@ -54,10 +54,6 @@ Steps:
 * Taste: adjust balance sweet-sour-salty
 * Finish with herbs before serving
 
-Want me to also give you a **stir-fry style Vietnamese option** (non-soup) with tamarind?
-
-
-
 
 
 # soy sauce

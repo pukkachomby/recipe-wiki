@@ -65,7 +65,7 @@ Want me to also give you a **stir-fry style Vietnamese option** (non-soup) with 
 * 2 tbsp soy sauce
 * 1 tbsp oyster sauce (optional, adds depth)
 * 1 tsp sesame oil
-* 2 garlic cloves, minced
+* 2 garlic  , minced
 * 1 small onion, finely chopped
 * 1 chili (optional), sliced
 * 1 tsp sugar

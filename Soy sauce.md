@@ -5,12 +5,13 @@
 * 4T soy sauce
 * 10 garlic
 * 2 tsp sesame oil
-* Garnish: Sesame seeds
-* Chili
 * Optional
     * Five-spice
     * 2T oyster sauce
+* Garnish
+    * Sesame seeds
     * Herbs
+    * Chili
 
 ## Method
 * Process veg

@@ -6,12 +6,15 @@
 * 10 garlic
 * 2t ginger
 * 4 cups stock
-* Chili
 * 2t soy/fish sauce
-* Herbs
-* Vinegar
+* Optional
+    * 1 pack mushrooms
+* Garnish
+    * Herbs
+    * Vinegar
+    * Chili
 
 ## Method
 * Process veg
 * Pressure cook on meat setting
-* Vinegar
+* Garnish

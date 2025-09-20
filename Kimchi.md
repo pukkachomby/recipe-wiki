@@ -6,10 +6,11 @@
 * 10 garlic
 * 1T ginger
 * 1T sesame oil
-* Optional: Five-spice
+* Optional
+    * Five-spice
+    * 1 pack mushrooms
 * Garnish
     * Sesame seeds
-    * Vinegar
 
 ### Sauce
 * 3T soy

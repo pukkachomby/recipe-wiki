@@ -16,6 +16,7 @@
 * [Pepper](Peppers)
 * [Kimchi soup](Kimchi soup)
 * [Kimchi](Kimchi)
+* [Southwest sans beans](Southwest sans beans)
 
 ## At-home variants
 * Mayo
@@ -73,41 +74,6 @@ Want me to also give you a **stir-fry style Vietnamese option** (non-soup) with 
 
 
 
-# Southwest-style with pork mince, corn, and tomato works. Without beans, you can bulk with veg and spices. Core profile: smoky, sweet, tangy.
-
-Ingredients:
-
-* 400 g pork mince
-* 2 ears corn (kernels) or 1 cup frozen
-* 2 large tomatoes, diced (or 1 can)
-* 1 red bell pepper, diced
-* 1 small zucchini, diced (optional for body)
-* 1 onion, chopped
-* 2 cloves garlic, minced
-* 1 tsp smoked paprika
-* 1 tsp ground cumin
-* ½ tsp chili powder (adjust heat)
-* ½ tsp oregano
-* Salt, black pepper
-* Lime juice
-* Fresh coriander or parsley
-
-Steps:
-
-* Fry onion and garlic until soft.
-* Add pork mince, brown well.
-* Stir in spices, cook until fragrant.
-* Add tomato, corn, bell pepper, zucchini. Simmer 10–12 min until thickened.
-* Taste and adjust salt, chili, lime.
-* Garnish with coriander.
-
-Options:
-
-* Add chipotle in adobo for depth
-* Top with avocado slices or grated cheese
-* Serve with tortillas, rice, or baked potato
-
-Want me to shape this as a **one-pan skillet meal** (heavier, cheesy, layered), or keep it as a light stir-fry style?
 
 
 # soy sauce
@@ -124,7 +90,6 @@ Want me to shape this as a **one-pan skillet meal** (heavier, cheesy, layered), 
 * steamed rice (to serve)
 
 Steps:
-
 * Heat oil in a pan
 * Add garlic and onion, fry until fragrant
 * Add pork mince, cook until browned
@@ -133,5 +98,3 @@ Steps:
 * Taste and adjust seasoning with more soy sauce if needed
 * Garnish with spring onions
 * Serve with steamed rice
-
-Want me to make it a quick stir-fry with vegetables included?

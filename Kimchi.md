@@ -1,7 +1,7 @@
 # Kimchi
 ## Materials
 ### Meat
-* 1 pack meat
+* 2 pack meat
 * 1 pack kimchi
 * 10 cloves garlic
 * 2t ginger

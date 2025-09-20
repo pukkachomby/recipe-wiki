@@ -24,6 +24,9 @@
 
 ## SORTME
 
+# NOTES
+in the new asian recipes, you can experiment with adding 5 spice
+
 # Salsa
 ## Materials
 * 1 can (14.5 oz) fire-roasted diced tomatoes, with juice

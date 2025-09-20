@@ -11,5 +11,5 @@
 * Herbs
 
 ## Method
-* Mince
+* Process veg
 * Pressure cook on meat setting

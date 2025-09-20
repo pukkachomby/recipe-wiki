@@ -7,4 +7,4 @@
 
 ## Method
 * Process veg
-* Pressure cook on meat setting
+* P cook on meat setting

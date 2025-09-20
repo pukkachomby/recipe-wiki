@@ -6,10 +6,10 @@
 * 10 gloves garlic
 * 2t ginger
 * 4 cups stock
-* chili
+* Chili
 * 2t soy/fish sauce
-* herbs
+* Herbs
 
 ## Method
-* mince
-* p cook on meat setting
+* Mince
+* Pressure cook on meat setting

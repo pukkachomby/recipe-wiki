@@ -30,8 +30,6 @@
 ## SORTME
 
 # NOTES
-in the new asian recipes, you can experiment with adding 5 spice
-
 
 
 
@@ -47,6 +45,7 @@ in the new asian recipes, you can experiment with adding 5 spice
 * 1 tbsp oil for frying
 * spring onions, chopped (for garnish)
 * steamed rice (to serve)
+* 5 spice?
 
 Steps:
 * Heat oil in a pan

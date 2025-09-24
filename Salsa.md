@@ -10,3 +10,6 @@
 
 ## Method
 * Process veg
+* Can mix with meat
+    * [Pepper](Pepper)
+    * [Southwest sans beans](Southwest sans beans)

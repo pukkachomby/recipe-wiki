@@ -9,18 +9,19 @@
     * That which fills up a 2.5L container
     * That which is 1-2 days worth of meals (depending on protein content)
 
-## Aromatics
+## With meat
 * [Mushroom](Mushroom)
 * [Cabbage](Cabbage)
 * [Cuke](Cuke)
 * [Pepper](Peppers)
-
 * [Kimchi soup](Kimchi soup)
 * [Kimchi](Kimchi)
 * [Southwest sans beans](Southwest sans beans)
-* [Salsa](Salsa)
 * [Tamarind tomato pinapple](Tamarind tomato pineapple)
 * [Soy sauce](Soy sauce)
+
+## No meat
+* [Salsa](Salsa)
 
 ## At-home variants
 * Mayo

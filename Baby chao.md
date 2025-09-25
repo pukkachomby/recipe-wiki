@@ -7,4 +7,3 @@
 * Pressure cook 40m, porridge setting
 * Process
 * Freeze
-* Thaw

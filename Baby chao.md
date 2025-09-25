@@ -4,7 +4,7 @@
 * 4c water
 
 ## Method
-* Pressure cook rice 2x normal time on porridge setting
+* Pressure cook 40m, porridge setting
 * Process
 * Freeze
 * Thaw
